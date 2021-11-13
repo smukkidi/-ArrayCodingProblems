@@ -1,7 +1,7 @@
 package LevelOne; 
 import java.util.Scanner;
 class ArrayProgram1{
-
+/*Take 10 integer inputs from user and store them in an array and print them on screen.*/
   public static void main(String[] args){
     Scanner s = new Scanner(System.in);
     int[] z = new int[10];
